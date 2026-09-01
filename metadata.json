@@ -1,0 +1,6 @@
+{
+  "name": "The 24/7 Intelligent Code Reviewer",
+  "description": "Automated, always-on multi-language code review platform with standardized 1-10 quality ratings, historical CSV rule ingestion, and longitudinal developer growth analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
